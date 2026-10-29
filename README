@@ -1,2 +1,48 @@
-## Up-Skil Log
-This repo will log my efforts, skills and knoweledge learned every week. The skills will include programming languages, frameworks, standards and practices, norms, tools, technologies and more.
+# Learning Log
+
+This repo logs the skills and knowledge I learn each week: programming languages, frameworks, standards and practices, tools and technologies.
+
+## Folder Layout
+
+- `weekly/`: one file per week, named like `2026-W45.md`, covering what I studied, built and struggled with that week
+- `concepts/`: one file per concept I've studied, named like `typescript-generics.md`
+- `exercises/`: small code files written while learning, each with a comment at the top stating its purpose
+
+## Weekly Note Template
+
+```markdown
+# Week YYYY-Www
+
+## What I studied
+Concepts tackled this week and why.
+
+## What I built
+Code, exercises or features completed.
+
+## Challenges
+Problems and bugs I ran into, mistakes I made, and how I solved them.
+
+## What's next
+What I'll focus on next week.
+```
+
+## Concept Note Template
+
+```markdown
+# Concept name
+
+## Why it exists
+The problem it solves, its advantages and use cases, and why to choose it over similar options.
+
+## Example
+A concrete example of it in use.
+
+## Rule and syntax
+The general rule and how to write it.
+
+## My explanation
+The concept in my own words.
+
+## Mistakes I made
+What I got wrong while learning it, and why.
+```
